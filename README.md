@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gihan Weerasekara</h1>
 <h3 align="center">Undergraduate of NSBM Green University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gihan200212&label=Profile%20views&color=0e75b6&style=flat" alt="gihan200212" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gihan200212&label=Profile%20views&color=0e75b6&style=flat" alt="gihan200212" /> </p>
 
-- 🌱 I’m currently learning **Java|C|HTML|CSS|JS**
+<p align="center">- 🌱 I’m currently learning- Java|C|HTML|CSS|JS</p>
 
-- 📫 How to reach me **gihannandika200212@gmail.com**
+<p align="center">- 📫 How to reach me<br> gihannandika200212@gmail.com</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/gihanweerasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gihanweerasekara" height="30" width="40" /></a>
 <a href="https://fb.com/gihanweerasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gihanweerasekara" height="30" width="40" /></a>
 <a href="https://discord.gg/Hi I'm Kawani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hi I'm Kawani" height="30" width="40" /></a>
